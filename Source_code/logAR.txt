@@ -1,0 +1,4 @@
+STT			Time				Action	Voltage
+
+1	Sat Aug  7 21:28:23 2021	SAVING	500
+2	Sat Aug  7 22:19:33 2021	SAVING	500

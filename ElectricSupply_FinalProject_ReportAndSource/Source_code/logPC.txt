@@ -1,0 +1,6 @@
+STT			Time				Action	Voltage
+
+1	Sat Aug  7 21:40:00 2021	SAVING	300
+2	Sat Aug  7 21:40:21 2021	STOP	0
+3	Sat Aug  7 21:40:30 2021	SAVING	NORMAL
+4	Sat Aug  7 21:40:37 2021	STOP	0
